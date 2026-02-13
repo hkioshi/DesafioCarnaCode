@@ -5,4 +5,5 @@
 link - https://github.com/hkioshi/balta-desafio-carnacode-2026_1-abstract-factory/tree/main
 
 <h1>Desafio 2 - Builder </h1>
-link - https://github.com/hkioshi/balta-desafio-carnacode-2026_2-abstract-factory/tree/main
+link - https://github.com/hkioshi/balta-desafio-carnacode-2026_2-builder
+
